@@ -1,2 +1,2 @@
 #!/bin/bash
-global BSET BEST="SCHOOL"
+export BEST="SCHOOL"
